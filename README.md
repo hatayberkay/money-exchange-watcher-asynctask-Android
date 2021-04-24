@@ -16,8 +16,9 @@ Do not forget to put INTERNET PERMİSSİON to xml file.
 * RelativeLayout ( for all multi screen size )
 * Custom listview
 * Sharing button for sharing with your friends.
-* FloatActionButton ( created by library )
+* FloatingActionsMenu ( created by library )
 
 
 Json library used for HTML Parsing. I send the request to URL for getting HTML values. And parse it for getting currency values. Then, I set them to my custom listview.
 
+![Screenshot_1619289052](https://user-images.githubusercontent.com/35609292/115969184-61acb600-a544-11eb-99eb-1f026b443bd7.png)
