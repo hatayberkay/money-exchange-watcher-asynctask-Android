@@ -13,6 +13,7 @@ Do not forget to put INTERNET PERMİSSİON to xml file.
 İnclueded:
 
 * Json library
+* RelativeLayout ( for all multi screen size )
 * Custom listview
 * Sharing button for sharing with your friends.
 * FloatActionButton ( created by library )
