@@ -1,4 +1,4 @@
-# money-exchange-watcher-jsoup-Android
+# money-exchange-watcher-asynctask-Android
 Money exchange watcher is working for watching currency fluctuation.
 
 I used to this url : https://www.ziraatbank.com.tr/tr/fiyatlar-ve-oranlar/   FOR getting all values.
